@@ -10,7 +10,7 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    color: #dbdde5;
 }
 
 .text-primary {
@@ -30,7 +30,7 @@ a.active {
 }
 
 a {
-    color: #606060;
+    color: #dbdde5;
 }
 
 .ab {
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial;
-    color: #7e7e7e;
+    color: #dbdde5;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -259,7 +259,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #7e7e7e;
+    color: #dbdde5;
 }
 
 .navbar-default .nav li a:hover,
@@ -271,7 +271,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a {
     border-radius: ;
     color: #fff;
-    background-color: #7e7e7e;
+    background-color: #dbdde5;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -305,6 +305,7 @@ fieldset[disabled] .btn-xl.active {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
+        color: #dbdde5;
     }
 
     header .intro-text .intro-lead-in {
@@ -451,78 +452,6 @@ fieldset[disabled] .btn-xl.active {
     
     aside.clients img {
         margin: 50px auto;
-    }
-    /*------------------------------------------------------------------
-       CONTACT SECTION
-    ------------------------------------------------------------------*/
-    section#contact {
-        background-color: #222;
-        background-image: url(../img/contact.png);
-        background-position: center center;
-        background-repeat: no-repeat;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-        height: 100vh;
-    }
-    
-    section#contact .section-heading {
-        color: #007f00;
-    }
-    
-    section#contact .form-group {
-        margin-bottom: 25px;
-    }
-    
-    section#contact .form-group input,
-    section#contact .form-group textarea {
-        padding: 20px;
-    }
-    
-    section#contact .form-group input.form-control {
-        height: auto;
-    }
-    
-    section#contact .form-group textarea.form-control {
-        height: 236px;
-    }
-    
-    section#contact .form-control:focus {
-        border-color: #007f00;
-        box-shadow: none;
-    }
-    
-    section#contact::-webkit-input-placeholder {
-        text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-weight: 700;
-        color: #bbb;
-    }
-    
-    section#contact:-moz-placeholder {
-        text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-weight: 700;
-        color: #bbb;
-    }
-    
-    section#contact::-moz-placeholder {
-        text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-weight: 700;
-        color: #bbb;
-    }
-    
-    section#contact:-ms-input-placeholder {
-        text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-weight: 700;
-        color: #bbb;
-    }
-    
-    section#contact .text-danger {
-        color: #e74c3c;
     }
     
     footer {
