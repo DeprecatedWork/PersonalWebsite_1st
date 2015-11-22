@@ -290,7 +290,7 @@ fieldset[disabled] .btn-xl.active {
          HEADER
     -------------------------------------------------------------------------*/
    .header-front{
-    background-image: url(../img/HeaderSmall.png);
+    background-image: url(../img/headertest.png);
     }
 
     header {
@@ -922,7 +922,7 @@ fieldset[disabled] .btn-xl.active {
     }
    
    .header-front{
-    background-image: url(../img/Header.png);
+    background-image: url(../img/headertest.png);
     
    }
    
