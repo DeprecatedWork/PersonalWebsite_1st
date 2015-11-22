@@ -279,16 +279,6 @@ fieldset[disabled] .btn-xl.active {
     background-color: #007f00;
 }
 
-.dropdown-appearance {
-  background: transparent;
-  padding: 5px;
-  font-size: 14px;
-  border: 0;
-  border-radius: 0;
-  -webkit-appearance: none;
-}
-
-
 /*------------------------------------------------------------------------
    LAPTOP
 -------------------------------------------------------------------------*/
@@ -333,6 +323,15 @@ fieldset[disabled] .btn-xl.active {
         line-height: 75px;
         color: #dbdde5;
     } 
+    
+    .dropdown-appearance {
+        background: transparent;
+        padding: 5px;
+        font-size: 14px;
+        border: 0;
+        border-radius: 0;
+        -webkit-appearance: none;
+    }
 
     /*------------------------------------------------------------------------
         CARDS
@@ -534,6 +533,7 @@ fieldset[disabled] .btn-xl.active {
         background: transparent;
         text-shadow: 0 0 0 #2690c7;
     }
+
 
     /*------------------------------------------------------------------------
         MODALS
@@ -968,6 +968,18 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }    
+    .dropdown-appearance {
+        background: black;
+        padding: 5px;
+        font-size: 14px;
+        border: 0;
+        border-radius: 0;
+        -webkit-appearance: none;
+    }
+    
+    .dropdown-menu>li>a {
+      color: #dbdde5; 
+     }
 
   /*---------------------------------------------------
      Time Line - Mobile
