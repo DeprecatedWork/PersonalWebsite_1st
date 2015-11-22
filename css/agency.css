@@ -259,7 +259,6 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #dbdde5;
 }
 
 .navbar-default .nav li a:hover,
@@ -278,6 +277,15 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: #007f00;
+}
+
+.dropdown-appearance {
+  background: transparent;
+  padding: 5px;
+  font-size: 14px;
+  border: 0;
+  border-radius: 0;
+  -webkit-appearance: none;
 }
 
 
@@ -323,6 +331,7 @@ fieldset[disabled] .btn-xl.active {
         font-size: 40px;
         font-weight: 150;
         line-height: 75px;
+        color: #dbdde5;
     } 
 
     /*------------------------------------------------------------------------
@@ -819,13 +828,6 @@ fieldset[disabled] .btn-xl.active {
         z-index: 6;
         }
 }
-
-
-/*mobile
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) {*/
   
 @media(max-width: 992px) { 
     section {
@@ -875,6 +877,7 @@ fieldset[disabled] .btn-xl.active {
         font-size: 40px;
         font-weight: 150;
         line-height: 75px;
+        color: #dbdde5;
     } 
     
     
