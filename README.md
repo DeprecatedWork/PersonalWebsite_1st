@@ -1,11 +1,13 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+## jesswhite.co.uk
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+This is my personal Resume website, and general plaything. A tool in which I try out
+new front end things on. This repo contains the HTML, CSS form of the website. I 
+plan to later build the same site later using MVC so that I can create my own
+forms, API etc for practice. 
 
 ## Getting Started
 
 To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
 * Fork this repository on GitHub
 
 ## Bugs and Issues
@@ -14,12 +16,14 @@ Have a bug or an issue with this theme? [Open a new issue](https://github.com/Ir
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
+Start Bootstrap was created by and is maintained by David Miller
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
-
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+Since using the starting Bootstrap this website has been heavily edited (HTML and CSS)
+
+Have tried to keep the css clean and well documented. Any questions, please ask.
 
 ## Copyright and License
 
